@@ -1,0 +1,19 @@
+h1, .title{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.paragraph{
+    word-wrap: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: left;
+}
+
+.code{
+    font-family: 'consolas', Arial, sans-serif;
+    background-color: gray;
+    color: orange;
+    font-size: 14px;
+}
